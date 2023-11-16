@@ -18,3 +18,6 @@ Within the input are the numpy tensors in png format.
 
 ## Example
 ![Immagine a sinistra](https://github.com/Raciti/iPLAN/blob/main/Input/mat0.png) ![Immagine a destra](https://github.com/Raciti/iPLAN/blob/main/Result/Output/img0.png)
+
+# Author
+@Raciti
