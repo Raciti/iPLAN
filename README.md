@@ -5,7 +5,7 @@ The official repository can be found at the following [link](https://github.com/
 Within the Code repository is the iPLAN file containing the execution of the entire pipeline; the View file used for viewing the final data and the other folders contains additional code used for other model tests.
 
 ## Data
-Within data are the .mat files used for the execution of the pipeline and tests.
+Within data are the .mat files used for the execution of the pipeline and tests. In Data_RPLAN there are the files obtained from the RPLAN code, for obtaining the .mat files.
 
 ## Model
 The model folder contains all model checkpoints used for this report.
