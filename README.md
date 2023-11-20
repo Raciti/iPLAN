@@ -19,5 +19,7 @@ Within the input are the numpy tensors in png format.
 ## Example
 ![Input](https://github.com/Raciti/iPLAN/blob/main/Input/mat0.png) ![Output](https://github.com/Raciti/iPLAN/blob/main/Result/Output/img0.png)
 
+## RPLAN Data
+![Img0](https://github.com/Raciti/iPLAN/blob/main/Input/Image_RPLAN/0.png?raw=true) ![Img1](https://github.com/Raciti/iPLAN/blob/main/Input/Image_RPLAN/1.png)
 # Author
 [@Raciti](https://github.com/Raciti)
