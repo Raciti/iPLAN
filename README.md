@@ -26,7 +26,7 @@ Within the input are the numpy tensors in png format.
 
 ## RPLAN Data
 [RPLAN Toolbox](https://github.com/zzilch/RPLAN-Toolbox) <br>
-<img src="https://github.com/Raciti/iPLAN/blob/main/Input/Image_RPLAN/0.png?raw=true" alt="Img0" width="300"/> <img src="https://github.com/Raciti/iPLAN/blob/main/Input/Image_RPLAN/1.png" alt="Img1" width="300"/>
+<img src="https://github.com/Raciti/iPLAN/blob/main/Input/Image_RPLAN/mat0.png?raw=true" alt="Img0" width="300"/> <img src="https://github.com/Raciti/iPLAN/blob/main/Input/Image_RPLAN/mat1.png?raw=true" alt="Img1" width="300"/>
 <br>
 [Code implemented for RPLAN](https://github.com/Raciti/iPLAN/blob/main/Code/RPLAN.ipynb)
 
