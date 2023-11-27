@@ -17,11 +17,11 @@ In the results are the .mat files for each execution of the pipeline steps. Insi
 Within the input are the numpy tensors in png format.
 
 ## Example
-<img src="https://github.com/Raciti/iPLAN/blob/main/Input/mat0.png" alt="Input0" width="220"/> <img src="https://github.com/Raciti/iPLAN/blob/main/Result/Output/img0.png" alt="Output01" width="220"/>
-<img src="https://github.com/Raciti/iPLAN/blob/main/Result/Output/img0_v2.png?raw=true" alt="Output02" width="220"/>
+<img src="https://github.com/Raciti/iPLAN/blob/main/Input/Image_iPLAN/mat0.png?raw=true" alt="Input0" width="220"/> <img src="https://github.com/Raciti/iPLAN/blob/main/Result/iPLAN/Output/img0.png?raw=true" alt="Output01" width="220"/>
+<img src="https://github.com/Raciti/iPLAN/blob/main/Result/iPLAN/Output/img0_v2.png?raw=true" alt="Output02" width="220"/>
 <br>
-<img src="https://github.com/Raciti/iPLAN/blob/main/Input/mat1.png?raw=true" alt="Input1" width="220"/> <img src="https://github.com/Raciti/iPLAN/blob/main/Result/Output/img1.png?raw=true" alt="Output11" width="220"/>
-<img src="https://github.com/Raciti/iPLAN/blob/main/Result/Output/img1_v2.png?raw=true" alt="Output12" width="220"/>
+<img src="https://github.com/Raciti/iPLAN/blob/main/Input/Image_iPLAN/mat1.png?raw=true" alt="Input1" width="220"/> <img src="https://github.com/Raciti/iPLAN/blob/main/Result/iPLAN/Output/img1.png?raw=true" alt="Output11" width="220"/>
+<img src="https://github.com/Raciti/iPLAN/blob/main/Result/iPLAN/Output/img1_v2.png?raw=true" alt="Output12" width="220"/>
 
 
 ## RPLAN Data
